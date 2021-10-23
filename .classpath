@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="main"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita/Desktop/Edubridge/commons-lang3-3.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita/Desktop/Edubridge/javax.servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita/Desktop/Edubridge/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita/Desktop/Edubridge/Jayanth Sir/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita/Desktop/Edubridge/Jayanth Sir/mysql-connector-java-5.0.0-beta-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita/Desktop/Edubridge/Jayanth Sir/mysql-connector-java-5.1.33.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita/Desktop/Edubridge/Jayanth Sir/Jarrs/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita/Desktop/Edubridge/Jayanth Sir/Jarrs/byte-buddy-1.8.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita/Desktop/Edubridge/Jayanth Sir/Jarrs/classmate-1.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita/Desktop/Edubridge/Jayanth Sir/Jarrs/dom4j-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita/Desktop/Edubridge/Jayanth Sir/Jarrs/hibernate-commons-annotations-5.0.4.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita/Desktop/Edubridge/Jayanth Sir/Jarrs/hibernate-core-5.3.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita/Desktop/Edubridge/Jayanth Sir/Jarrs/jandex-2.0.5.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita/Desktop/Edubridge/Jayanth Sir/Jarrs/javassist-3.23.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita/Desktop/Edubridge/Jayanth Sir/Jarrs/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita/Desktop/Edubridge/Jayanth Sir/Jarrs/javax.persistence-api-2.2 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita/Desktop/Edubridge/Jayanth Sir/Jarrs/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita/Desktop/Edubridge/Jayanth Sir/Jarrs/jboss-logging-3.3.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita/Desktop/Edubridge/Jayanth Sir/Jarrs/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita/Desktop/Edubridge/Jayanth Sir/Jarrs/jsp-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita/Desktop/Edubridge/Jayanth Sir/Jarrs/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita/Desktop/Edubridge/Jayanth Sir/Jarrs/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita/Desktop/Edubridge/Jayanth Sir/Jarrs/protobuf-java-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikita/Desktop/Edubridge/Jayanth Sir/Jarrs/servlet-api-2.5.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
